@@ -1,0 +1,1083 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <nm>Daniel McNamara</nm>
+    <em>dpmcna@ad.corp.google.com</em>
+    <dn>2018-01-25 16:28:55+11:00</dn>
+    <nms>first Kaggle API commit</nms>
+  </row>
+  <row>
+    <index>1</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-01-25 17:15:45+11:00</dn>
+    <nms>Adding documentation</nms>
+  </row>
+  <row>
+    <index>2</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-01-25 17:24:10+11:00</dn>
+    <nms>Fixing character escapes in Readme</nms>
+  </row>
+  <row>
+    <index>3</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-01-25 17:33:28+11:00</dn>
+    <nms>Updating directory references</nms>
+  </row>
+  <row>
+    <index>4</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-01-25 17:37:23+11:00</dn>
+    <nms>Updating installation info</nms>
+  </row>
+  <row>
+    <index>5</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-01-25 22:22:41+00:00</dn>
+    <nms>Print warning message if user has unsafe permissions on api key</nms>
+  </row>
+  <row>
+    <index>6</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-01-29 12:10:40+11:00</dn>
+    <nms>Merge pull request #1 from mxbi/master
+
+Print warning message if kaggle.json has unsafe permissions</nms>
+  </row>
+  <row>
+    <index>7</index>
+    <nm>Daniel McNamara</nm>
+    <em>dpmcna@ad.corp.google.com</em>
+    <dn>2018-01-29 15:52:24+11:00</dn>
+    <nms>client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems</nms>
+  </row>
+  <row>
+    <index>8</index>
+    <nm>Daniel McNamara</nm>
+    <em>dpmcna@ad.corp.google.com</em>
+    <dn>2018-01-29 15:55:40+11:00</dn>
+    <nms>client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems
+
+	modified:   README.md</nms>
+  </row>
+  <row>
+    <index>9</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-01-29 15:57:37+11:00</dn>
+    <nms>Merge branch 'master' of https://github.com/Kaggle/kaggle-api</nms>
+  </row>
+  <row>
+    <index>10</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-01-30 14:23:26+11:00</dn>
+    <nms>preparing Python package for release on PyPi</nms>
+  </row>
+  <row>
+    <index>11</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-01-31 14:57:22+11:00</dn>
+    <nms>better README, mostly Python 2 compatible</nms>
+  </row>
+  <row>
+    <index>12</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-01-31 16:22:49+11:00</dn>
+    <nms>adding .gitignore</nms>
+  </row>
+  <row>
+    <index>13</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-01-31 17:19:59+11:00</dn>
+    <nms>making sure unicode printed ok</nms>
+  </row>
+  <row>
+    <index>14</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-01-31 17:21:04+11:00</dn>
+    <nms>updating version number</nms>
+  </row>
+  <row>
+    <index>15</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-01-31 17:27:59+11:00</dn>
+    <nms>string conversion for Python 2 and 3</nms>
+  </row>
+  <row>
+    <index>16</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-01-30 23:35:50-08:00</dn>
+    <nms>Small tweaks to README.md</nms>
+  </row>
+  <row>
+    <index>17</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-02-01 10:29:14+11:00</dn>
+    <nms>README updates</nms>
+  </row>
+  <row>
+    <index>18</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-02-01 10:50:29+11:00</dn>
+    <nms>reordering competitions commands</nms>
+  </row>
+  <row>
+    <index>19</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-02-01 23:35:43+01:00</dn>
+    <nms>Simplify the unicode logic to avoid bare exception</nms>
+  </row>
+  <row>
+    <index>20</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-02-02 00:09:52+01:00</dn>
+    <nms>Update kaggle_api_extended.py</nms>
+  </row>
+  <row>
+    <index>21</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-02-02 13:52:05+11:00</dn>
+    <nms>typo fix</nms>
+  </row>
+  <row>
+    <index>22</index>
+    <nm>dpmcna</nm>
+    <em>dpmcna@google.com</em>
+    <dn>2018-02-02 13:54:56+11:00</dn>
+    <nms>update version number</nms>
+  </row>
+  <row>
+    <index>23</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-03-20 11:17:03+11:00</dn>
+    <nms>Merge pull request #4 from cclauss/patch-2
+
+Thanks! This sounds resonable to me, no matter the nuances. I'm gonna merge this in now, hopefully this works given that we're internally maintaining a version on another repo :)</nms>
+  </row>
+  <row>
+    <index>24</index>
+    <nm>Timo Bozsolik</nm>
+    <em>timoboz@google.com</em>
+    <dn>2018-03-20 11:27:49+11:00</dn>
+    <nms>API v1.1</nms>
+  </row>
+  <row>
+    <index>25</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-03-21 11:11:30-07:00</dn>
+    <nms>metadata.json -&gt; datapackage.json</nms>
+  </row>
+  <row>
+    <index>26</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-16 10:09:12-04:00</dn>
+    <nms>Update API to 1.2</nms>
+  </row>
+  <row>
+    <index>27</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-04-17 10:46:39-04:00</dn>
+    <nms>Fix version</nms>
+  </row>
+  <row>
+    <index>28</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-18 13:54:40-04:00</dn>
+    <nms>API v1.3</nms>
+  </row>
+  <row>
+    <index>29</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-18 19:19:30-04:00</dn>
+    <nms>Rename LICENSE.txt to LICENSE</nms>
+  </row>
+  <row>
+    <index>30</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-18 19:19:30-04:00</dn>
+    <nms>Delete LICENSE</nms>
+  </row>
+  <row>
+    <index>31</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-18 19:19:30-04:00</dn>
+    <nms>Create LICENSE</nms>
+  </row>
+  <row>
+    <index>32</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-18 19:19:30-04:00</dn>
+    <nms>Update README with License</nms>
+  </row>
+  <row>
+    <index>33</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-19 09:55:42-04:00</dn>
+    <nms>Update API to v1.3.1</nms>
+  </row>
+  <row>
+    <index>34</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-20 07:53:53-04:00</dn>
+    <nms>Add license headers</nms>
+  </row>
+  <row>
+    <index>35</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-24 10:33:38-04:00</dn>
+    <nms>Update API to v1.3.2</nms>
+  </row>
+  <row>
+    <index>36</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-24 11:08:24-04:00</dn>
+    <nms>Update API to v1.3.2.1</nms>
+  </row>
+  <row>
+    <index>37</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-24 17:17:50-04:00</dn>
+    <nms>Update installation instructions</nms>
+  </row>
+  <row>
+    <index>38</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-25 13:39:56-04:00</dn>
+    <nms>Update README.md
+
+Fix path for download</nms>
+  </row>
+  <row>
+    <index>39</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-25 13:39:56-04:00</dn>
+    <nms>Update README.md
+
+Fix path where files are downloaded</nms>
+  </row>
+  <row>
+    <index>40</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-25 13:39:56-04:00</dn>
+    <nms>Update README.md</nms>
+  </row>
+  <row>
+    <index>41</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-25 13:39:56-04:00</dn>
+    <nms>Update README.md</nms>
+  </row>
+  <row>
+    <index>42</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-04-26 13:12:14-04:00</dn>
+    <nms>Update API to to 1.3.3</nms>
+  </row>
+  <row>
+    <index>43</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-05-01 08:37:57-04:00</dn>
+    <nms>Update API to 1.3.4</nms>
+  </row>
+  <row>
+    <index>44</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-05-02 12:50:09-04:00</dn>
+    <nms>Update README.md
+
+```kaggle datasets create``` does not have an ```-r``` flag, so it should be removed from the example</nms>
+  </row>
+  <row>
+    <index>45</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-05-04 10:02:37-04:00</dn>
+    <nms>Update API to 1.3.5</nms>
+  </row>
+  <row>
+    <index>46</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-05-07 12:28:43-04:00</dn>
+    <nms>Update API to 1.3.6</nms>
+  </row>
+  <row>
+    <index>47</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-05-14 13:06:16-04:00</dn>
+    <nms>Fix a path in a comment</nms>
+  </row>
+  <row>
+    <index>48</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-05-18 07:27:46-04:00</dn>
+    <nms>Update API to 1.3.7</nms>
+  </row>
+  <row>
+    <index>49</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-05-18 08:34:16-04:00</dn>
+    <nms>Update API to 1.3.8</nms>
+  </row>
+  <row>
+    <index>50</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-05-18 18:42:33-04:00</dn>
+    <nms>Warn when there is nothing to download</nms>
+  </row>
+  <row>
+    <index>51</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-08 09:40:05-04:00</dn>
+    <nms>Update API to 1.3.9</nms>
+  </row>
+  <row>
+    <index>52</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-08 09:40:35-04:00</dn>
+    <nms>Update API to 1.3.9</nms>
+  </row>
+  <row>
+    <index>53</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-09 16:06:04-04:00</dn>
+    <nms>Update API to 1.3.9.1</nms>
+  </row>
+  <row>
+    <index>54</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-10 12:34:48-04:00</dn>
+    <nms>limit urlib3's version to avoid requests issue</nms>
+  </row>
+  <row>
+    <index>55</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-10 12:34:48-04:00</dn>
+    <nms>Add explanatory comments that show this change as interim measures.</nms>
+  </row>
+  <row>
+    <index>56</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-10 12:43:46-04:00</dn>
+    <nms>Update API to 1.3.10</nms>
+  </row>
+  <row>
+    <index>57</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-15 16:50:55-04:00</dn>
+    <nms>Update README</nms>
+  </row>
+  <row>
+    <index>58</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-19 06:38:24-04:00</dn>
+    <nms>dataset_initialize should return metadata file (and not nothing)</nms>
+  </row>
+  <row>
+    <index>59</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-19 06:38:24-04:00</dn>
+    <nms>metadata creation needs to happen before creation</nms>
+  </row>
+  <row>
+    <index>60</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-25 08:13:04-04:00</dn>
+    <nms>adding message to user that dataset creation takes time!</nms>
+  </row>
+  <row>
+    <index>61</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-25 08:13:04-04:00</dn>
+    <nms>print of result (url) is redundant</nms>
+  </row>
+  <row>
+    <index>62</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-25 08:13:04-04:00</dn>
+    <nms>adding same message to dataset_create_new</nms>
+  </row>
+  <row>
+    <index>63</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-25 08:23:49-04:00</dn>
+    <nms>Respect KAGGLE_CONFIG_DIR environment variable</nms>
+  </row>
+  <row>
+    <index>64</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-25 08:23:49-04:00</dn>
+    <nms>Describe usage of KAGGLE_CONFIG_DIR</nms>
+  </row>
+  <row>
+    <index>65</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-25 10:13:44-04:00</dn>
+    <nms>Add .idea/ to gitignore</nms>
+  </row>
+  <row>
+    <index>66</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-06-25 10:40:13-04:00</dn>
+    <nms>Update API to 3.12</nms>
+  </row>
+  <row>
+    <index>67</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-19 13:59:40-04:00</dn>
+    <nms>Update API to 1.4.0</nms>
+  </row>
+  <row>
+    <index>68</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-19 14:03:37-04:00</dn>
+    <nms>Remove .idea folder</nms>
+  </row>
+  <row>
+    <index>69</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-20 09:25:27-04:00</dn>
+    <nms>Fix wiki references</nms>
+  </row>
+  <row>
+    <index>70</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-20 12:44:47-04:00</dn>
+    <nms>Update formatting</nms>
+  </row>
+  <row>
+    <index>71</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-20 14:09:24-04:00</dn>
+    <nms>Update API to 1.4.1</nms>
+  </row>
+  <row>
+    <index>72</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-20 15:50:45-04:00</dn>
+    <nms>Update API to 1.4.2</nms>
+  </row>
+  <row>
+    <index>73</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-20 15:51:42-04:00</dn>
+    <nms>Kernels ARE supported!
+
+removing `The biggest limitation at the moment is that kernels are not supported in any way at this point.  We do intend to implement support in the near future, though there's no ETA. `</nms>
+  </row>
+  <row>
+    <index>74</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-20 15:53:39-04:00</dn>
+    <nms>Merge branch 'master' of https://github.com/Kaggle/kaggle-api</nms>
+  </row>
+  <row>
+    <index>75</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-20 15:53:51-04:00</dn>
+    <nms>Fix changelog and readme</nms>
+  </row>
+  <row>
+    <index>76</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-30 07:14:41-04:00</dn>
+    <nms>Update API to 1.4.3</nms>
+  </row>
+  <row>
+    <index>77</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-30 07:16:59-04:00</dn>
+    <nms>Add release date to changelog</nms>
+  </row>
+  <row>
+    <index>78</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-07-30 13:05:16-04:00</dn>
+    <nms>Update API to 1.4.4</nms>
+  </row>
+  <row>
+    <index>79</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-01 08:12:50-04:00</dn>
+    <nms>Update API to 1.4.5</nms>
+  </row>
+  <row>
+    <index>80</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-06 14:32:03-04:00</dn>
+    <nms>just adding tweaks for authentication</nms>
+  </row>
+  <row>
+    <index>81</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-06 14:32:03-04:00</dn>
+    <nms>more tweaks, valueerror, etc</nms>
+  </row>
+  <row>
+    <index>82</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-06 14:32:03-04:00</dn>
+    <nms>adding unittest start files</nms>
+  </row>
+  <row>
+    <index>83</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-06 14:32:03-04:00</dn>
+    <nms>tweaking spacing</nms>
+  </row>
+  <row>
+    <index>84</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-06 14:32:03-04:00</dn>
+    <nms>next round of changes to separate config and data default directories</nms>
+  </row>
+  <row>
+    <index>85</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-06 14:32:03-04:00</dn>
+    <nms>adding subdirs back to handle multiple string paths passed into get_default_download_dir</nms>
+  </row>
+  <row>
+    <index>86</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-06 14:32:03-04:00</dn>
+    <nms>updating tets</nms>
+  </row>
+  <row>
+    <index>87</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-06 14:32:03-04:00</dn>
+    <nms>updating function names to not be private, and be more clear</nms>
+  </row>
+  <row>
+    <index>88</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-07 09:56:41-04:00</dn>
+    <nms>Update API to 1.4.6</nms>
+  </row>
+  <row>
+    <index>89</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-17 15:45:59-04:00</dn>
+    <nms>Update README.md</nms>
+  </row>
+  <row>
+    <index>90</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-17 15:50:09-04:00</dn>
+    <nms>first chunk of work to add docstrings!</nms>
+  </row>
+  <row>
+    <index>91</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-17 15:50:09-04:00</dn>
+    <nms>finish up docstrings</nms>
+  </row>
+  <row>
+    <index>92</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-08-29 09:09:10-04:00</dn>
+    <nms>Update API to 1.4.7.1</nms>
+  </row>
+  <row>
+    <index>93</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-09-04 13:43:04-04:00</dn>
+    <nms>Add info about kernels API
+
+In the following phrase there was no mention of the kernels API:&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The command line tool supports the following commands:&#13;
+&#13;
+``` &#13;
+kaggle competitions {list,files,download,submit,submissions,leaderboard}&#13;
+kaggle datasets {list, files, download, create, version, init}&#13;
+kaggle kernels {list, init, push, pull, output, status}&#13;
+kaggle config {view, set, unset}&#13;
+```</nms>
+  </row>
+  <row>
+    <index>94</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2018-09-10 09:08:43-04:00</dn>
+    <nms>Update readme to reflect lack of python 2 support</nms>
+  </row>
+  <row>
+    <index>95</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-02 09:53:43-04:00</dn>
+    <nms>README.md - path default current working directory
+
+README.md - kaggle config said the default path is ~/.kaggle rather than current working directory.</nms>
+  </row>
+  <row>
+    <index>96</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-19 10:19:00-04:00</dn>
+    <nms>Warn user when kaggle.json not found
+
+If kaggle.json is not found and the credentials were also not set in the environment, raise an error showing the expected location of kaggle.json</nms>
+  </row>
+  <row>
+    <index>97</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-19 10:19:00-04:00</dn>
+    <nms>Use field name constants</nms>
+  </row>
+  <row>
+    <index>98</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-19 10:19:00-04:00</dn>
+    <nms>Adhere to 80 chars line width</nms>
+  </row>
+  <row>
+    <index>99</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-26 07:27:18-04:00</dn>
+    <nms>Update to 1.5.0</nms>
+  </row>
+  <row>
+    <index>100</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>Initial support for uploading subdirectories</nms>
+  </row>
+  <row>
+    <index>101</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>make logging messages more consistent</nms>
+  </row>
+  <row>
+    <index>102</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>docstring and better variable name</nms>
+  </row>
+  <row>
+    <index>103</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>fix desc</nms>
+  </row>
+  <row>
+    <index>104</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>addded command line flag</nms>
+  </row>
+  <row>
+    <index>105</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>update docstrings</nms>
+  </row>
+  <row>
+    <index>106</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>update README</nms>
+  </row>
+  <row>
+    <index>107</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>clarify "skipping" messages</nms>
+  </row>
+  <row>
+    <index>108</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>adding tar mode</nms>
+  </row>
+  <row>
+    <index>109</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-30 09:04:33-04:00</dn>
+    <nms>fixed a bug with dataset creation</nms>
+  </row>
+  <row>
+    <index>110</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-10-31 14:29:11-04:00</dn>
+    <nms>fix Python 2 error: 'file' object has no attribute 'readable' (issue #115)</nms>
+  </row>
+  <row>
+    <index>111</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-11-14 10:00:46-05:00</dn>
+    <nms>Added cert_file to configuration</nms>
+  </row>
+  <row>
+    <index>112</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-11-14 10:00:46-05:00</dn>
+    <nms>changed cert_file to ca_Certs</nms>
+  </row>
+  <row>
+    <index>113</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-11-14 10:00:46-05:00</dn>
+    <nms>change ca_certs to ssl_ca_cert</nms>
+  </row>
+  <row>
+    <index>114</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-11-14 10:00:46-05:00</dn>
+    <nms>fixed CONFIG_NAME_SSL_CA_CERT not being checked</nms>
+  </row>
+  <row>
+    <index>115</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-11-14 10:05:20-05:00</dn>
+    <nms>Add omitted spaces in kaggle.json permissions warning</nms>
+  </row>
+  <row>
+    <index>116</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-11-30 14:18:25-05:00</dn>
+    <nms>improve creating dataset document
+
+Creating a new dataset normally has two steps. At first, we should initiate a folder to be ready to upload files. It easily got confused for newbies.</nms>
+  </row>
+  <row>
+    <index>117</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2018-12-05 09:12:35-05:00</dn>
+    <nms>Update API to 1.5.1.1</nms>
+  </row>
+  <row>
+    <index>118</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-01-07 11:17:57-05:00</dn>
+    <nms>Update Readme</nms>
+  </row>
+  <row>
+    <index>119</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-01-07 11:17:57-05:00</dn>
+    <nms>Update Readme</nms>
+  </row>
+  <row>
+    <index>120</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-01-28 15:06:37-05:00</dn>
+    <nms>Update API to 1.5.2</nms>
+  </row>
+  <row>
+    <index>121</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-02-20 09:25:43-05:00</dn>
+    <nms>Align docstring with actual default value</nms>
+  </row>
+  <row>
+    <index>122</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-02-20 09:25:43-05:00</dn>
+    <nms>Align further docstrings with actual default values
+
+Affected docstrings:
+* `competition_leaderboard_download`
+* `dataset_download_file`
+* `dataset_download_files`
+* `download_file`
+* `kernels_pull`</nms>
+  </row>
+  <row>
+    <index>123</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-02-20 09:26:34-05:00</dn>
+    <nms>Increase urllib3 version restriction</nms>
+  </row>
+  <row>
+    <index>124</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-02-20 09:37:04-05:00</dn>
+    <nms>Update API to 1.5.3</nms>
+  </row>
+  <row>
+    <index>125</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-04-05 10:20:05-04:00</dn>
+    <nms>Consistent whitespace in README</nms>
+  </row>
+  <row>
+    <index>126</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-04-22 08:52:30-04:00</dn>
+    <nms>Update kaggle_api_extended.py
+
+Solves issue #173: kernels output fails if the kernel is creating output subfolders</nms>
+  </row>
+  <row>
+    <index>127</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-05-28 14:44:41-04:00</dn>
+    <nms>Valid types and making kernels init more friendly</nms>
+  </row>
+  <row>
+    <index>128</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@users.noreply.github.com</em>
+    <dn>2019-05-28 15:58:38-04:00</dn>
+    <nms>Update API to 1.5.4</nms>
+  </row>
+  <row>
+    <index>129</index>
+    <nm>Paul Rondeau</nm>
+    <em>paulrondeau07@gmail.com</em>
+    <dn>2019-08-09 19:00:46-04:00</dn>
+    <nms>release v.1.5.5</nms>
+  </row>
+  <row>
+    <index>130</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2019-08-22 17:15:41-07:00</dn>
+    <nms>release v.1.5.5 (#207)
+
+release v.1.5.5</nms>
+  </row>
+  <row>
+    <index>131</index>
+    <nm>Rebecca Ysteboe</nm>
+    <em>rysteboe@google.com</em>
+    <dn>2019-09-19 14:53:58-04:00</dn>
+    <nms>Update API to 1.5.6</nms>
+  </row>
+  <row>
+    <index>132</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2020-03-16 18:33:13-04:00</dn>
+    <nms>turn internet on by default (#253)
+
+b/135010857</nms>
+  </row>
+  <row>
+    <index>133</index>
+    <nm>Jim Plotts</nm>
+    <em>jplotts@google.com</em>
+    <dn>2020-09-03 16:59:31-04:00</dn>
+    <nms>Release v1.5.8</nms>
+  </row>
+  <row>
+    <index>134</index>
+    <nm>Vincent Roseberry</nm>
+    <em>rosbo@google.com</em>
+    <dn>2020-10-21 18:22:55+00:00</dn>
+    <nms>Release v1.5.9</nms>
+  </row>
+  <row>
+    <index>135</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2020-10-21 13:04:48-07:00</dn>
+    <nms>Merge pull request #307 from Kaggle/release-1.5.9
+
+Release v1.5.9</nms>
+  </row>
+  <row>
+    <index>136</index>
+    <nm>Jim Plotts</nm>
+    <em>jplotts@google.com</em>
+    <dn>2020-11-30 16:43:14-05:00</dn>
+    <nms>Release 1.5.10.</nms>
+  </row>
+  <row>
+    <index>137</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2021-03-12 14:57:29-08:00</dn>
+    <nms>Update CHANGELOG.md
+
+updating changelog</nms>
+  </row>
+  <row>
+    <index>138</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2021-03-12 15:00:24-08:00</dn>
+    <nms>Update kaggle_api_extended.py
+
+update version number</nms>
+  </row>
+  <row>
+    <index>139</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2021-03-12 15:00:56-08:00</dn>
+    <nms>Update setup.py
+
+updating version number</nms>
+  </row>
+  <row>
+    <index>140</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2021-03-12 15:11:27-08:00</dn>
+    <nms>Update kaggle_api_extended.py
+
+add code change</nms>
+  </row>
+  <row>
+    <index>141</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2021-03-12 16:28:38-08:00</dn>
+    <nms>Update setup.py
+
+update version number</nms>
+  </row>
+  <row>
+    <index>142</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2021-03-12 16:29:28-08:00</dn>
+    <nms>Update CHANGELOG.md
+
+update version number</nms>
+  </row>
+  <row>
+    <index>143</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2021-03-12 16:30:00-08:00</dn>
+    <nms>Update kaggle_api_extended.py
+
+update version number</nms>
+  </row>
+  <row>
+    <index>144</index>
+    <nm>GitHub</nm>
+    <em>noreply@github.com</em>
+    <dn>2021-03-15 08:49:05-07:00</dn>
+    <nms>Merge pull request #334 from Kaggle/Release-v1.5.11
+
+Update files for release of api version 1.5.12</nms>
+  </row>
+</data>

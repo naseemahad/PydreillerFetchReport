@@ -1,0 +1,3 @@
+{"name":{"0":"Fabrics 3 Piece Suit","1":"Fabrics 3 Piece Suit","2":"Fabrics 3 Piece Suit","3":"Fabrics 3 Piece Suit","4":"Fabrics 3 Piece Suit","5":"Fabrics 3 Piece Suit","6":"Fabrics 3 Piece Suit","7":"Fabrics 3 Piece Suit"},
+"information":{"0":"Essentials Printed Top Bottoms Dupatta","1":"Essentials Printed Top Bottoms","2":"Essential Printed Top Bottoms Dupatta","3":"Essential Printed Top Bottoms Dupatta","4":"Casuals Knits Printed T-shirt","5":"Essential Dyed Embroidered Kurta","6":"Essential Printed Top Bottoms Dupatta","7":"Signature Printed Embroidered Kurta"},
+"price":{"0":2.214,"1":2.152,"2":3.19,"3":3.49,"4":1.49,"5":3.843,"6":3.49,"7":5.49}}

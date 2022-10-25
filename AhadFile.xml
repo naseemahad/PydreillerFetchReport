@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <name>Fabrics 3 Piece Suit</name>
+    <information>Essentials Printed Top Bottoms Dupatta</information>
+    <price>2.214</price>
+  </row>
+  <row>
+    <index>1</index>
+    <name>Fabrics 3 Piece Suit</name>
+    <information>Essentials Printed Top Bottoms</information>
+    <price>2.152</price>
+  </row>
+  <row>
+    <index>2</index>
+    <name>Fabrics 3 Piece Suit</name>
+    <information>Essential Printed Top Bottoms Dupatta</information>
+    <price>3.19</price>
+  </row>
+  <row>
+    <index>3</index>
+    <name>Fabrics 3 Piece Suit</name>
+    <information>Essential Printed Top Bottoms Dupatta</information>
+    <price>3.49</price>
+  </row>
+  <row>
+    <index>4</index>
+    <name>Fabrics 3 Piece Suit</name>
+    <information>Casuals Knits Printed T-shirt</information>
+    <price>1.49</price>
+  </row>
+  <row>
+    <index>5</index>
+    <name>Fabrics 3 Piece Suit</name>
+    <information>Essential Dyed Embroidered Kurta</information>
+    <price>3.843</price>
+  </row>
+  <row>
+    <index>6</index>
+    <name>Fabrics 3 Piece Suit</name>
+    <information>Essential Printed Top Bottoms Dupatta</information>
+    <price>3.49</price>
+  </row>
+  <row>
+    <index>7</index>
+    <name>Fabrics 3 Piece Suit</name>
+    <information>Signature Printed Embroidered Kurta</information>
+    <price>5.49</price>
+  </row>
+</data>
